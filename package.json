@@ -1,0 +1,15 @@
+{
+  "name": "backendchaiaurcode",
+  "version": "1.0.0",
+  "description": "Basic app to Deploy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Manoj Raut",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
